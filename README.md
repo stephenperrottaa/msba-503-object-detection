@@ -1,7 +1,7 @@
 #MSBA 503 Take Home Assignment
 
 #Overview
-- Compare two pretrained COCO detectors on 10 images in `data/images`:
+- Compare two pretrained COCO detectors on 10 images in `images`:
   - YOLOv8n (Ultralytics) — single-stage, speed-focused.
   - Faster R-CNN ResNet50 FPN (torchvision) — two-stage, higher recall.
 - Confidence threshold: 0.25 for both.
