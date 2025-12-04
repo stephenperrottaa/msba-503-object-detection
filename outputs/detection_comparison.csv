@@ -1,0 +1,21 @@
+image,model,inference_time_sec,objects_detected,top_predictions
+image_1.jpg,YOLOv8n,0.6140214000042761,11,"person (0.85), sports ball (0.76), person (0.74)"
+image_1.jpg,Faster R-CNN,3.3538314000034006,21,"person (1.00), person (0.99), person (0.99)"
+image_10.jpg,YOLOv8n,0.12703360000159591,1,umbrella (0.59)
+image_10.jpg,Faster R-CNN,2.373354900002596,1,mouse (0.49)
+image_2.jpg,YOLOv8n,0.09481350000714883,1,cat (0.84)
+image_2.jpg,Faster R-CNN,3.1190369999967515,1,cat (0.99)
+image_3.jpg,YOLOv8n,0.12712470001133624,1,dog (0.83)
+image_3.jpg,Faster R-CNN,2.870529300009366,2,"dog (1.00), bird (0.49)"
+image_4.jpg,YOLOv8n,0.1014530999964336,1,orange (0.64)
+image_4.jpg,Faster R-CNN,2.171902300004149,3,"banana (0.53), sports ball (0.51), dining table (0.45)"
+image_5.jpg,YOLOv8n,0.09734049999678973,1,fire hydrant (0.92)
+image_5.jpg,Faster R-CNN,2.2608173999906285,1,fire hydrant (1.00)
+image_6.jpg,YOLOv8n,0.07442679999803659,1,person (0.89)
+image_6.jpg,Faster R-CNN,3.048248399994918,1,person (1.00)
+image_7.jpg,YOLOv8n,0.15552509999542963,0,(none above threshold)
+image_7.jpg,Faster R-CNN,2.9716580000094837,0,(none above threshold)
+image_8.jpg,YOLOv8n,0.13346279998950195,1,bear (0.63)
+image_8.jpg,Faster R-CNN,3.0722635999991326,1,cat (0.84)
+image_9.jpg,YOLOv8n,0.1667334999947343,0,(none above threshold)
+image_9.jpg,Faster R-CNN,2.7768959999957588,1,frisbee (0.72)
